@@ -11,8 +11,8 @@ const WorkExp = () => {
         <div className="flex items-center mb-8">
           <div className="w-24 h-24 rounded-full overflow-hidden mr-6">
             {/* Add image source later */}
-            <img src="src\assets\cclogo.png" alt="CC Club" className="object-cover w-full h-full" />
-          </div>
+            <img src={`src\assets\cclogo.png`} alt="CC Club" className="object-cover w-full h-full" />
+            </div>
           <div>
             <h3 className="text-2xl font-semibold mb-2">Member - Competitive Coding Club (CC Club)</h3>
             <p className="max-w-2xl text-lg">
