@@ -11,7 +11,7 @@ const WorkExp = () => {
         <div className="flex items-center mb-8">
           <div className="w-24 h-24 rounded-full overflow-hidden mr-6">
             {/* Add image source later */}
-            <img src={`src\assets\cclogo.png`} alt="CC Club" className="object-cover w-full h-full" />
+            <img src={`../assets/cclogo.png`} alt="CC Club" className="object-cover w-full h-full" />
             </div>
           <div>
             <h3 className="text-2xl font-semibold mb-2">Member - Competitive Coding Club (CC Club)</h3>
@@ -25,7 +25,7 @@ const WorkExp = () => {
         <div className="flex items-center mb-8">
           <div className="w-24 h-24 rounded-full overflow-hidden mr-6">
             {/* Add image source later */}
-            <img src="src\assets\roboclub.jpeg" alt="Robotics Club" className="object-cover w-full h-full" />
+            <img src="../assets/roboclub.jpeg" alt="Robotics Club" className="object-cover w-full h-full" />
           </div>
           <div>
             <h3 className="text-2xl font-semibold mb-2">Member - Robotics Club</h3>
@@ -39,7 +39,7 @@ const WorkExp = () => {
         <div className="flex items-center mb-8">
           <div className="w-24 h-24 rounded-full overflow-hidden mr-6">
             {/* Add image source later */}
-            <img src="src\assets\gssoc.png" alt="GSSoC" className="object-cover w-full h-full" />
+            <img src="../assets/gssoc.png" alt="GSSoC" className="object-cover w-full h-full" />
           </div>
           <div>
             <h3 className="text-2xl font-semibold mb-2">Contributor - GirlScript Summer of Code (GSSoC)</h3>
